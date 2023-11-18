@@ -1,2 +1,2 @@
 # meme-project
-A little giggle while learning CSS.
+A meme on daily life while learning CSS. 
